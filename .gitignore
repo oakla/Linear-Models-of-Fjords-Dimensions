@@ -8,4 +8,4 @@
 **/Assessment Information/
 **/output/2019 - original project files
 *.Rproj
-/reports/
+*.docx
